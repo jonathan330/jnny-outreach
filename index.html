@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JNNY Outreach – Austin Shows</title>
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#1c1a17;--mute:#6b665e;--line:#e6dfd3;--acc:#c2410c;--accink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#14120f;--card:#1e1b17;--ink:#f3eee6;--mute:#a39b8e;--line:#332e27;--acc:#fb923c;--accink:#14120f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+main{max-width:800px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.6rem;margin:0}
+.sub{color:var(--mute);font-size:.85rem;margin:4px 0 16px}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-bottom:14px;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:10px}
+.row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.artist{font-weight:700;font-size:1.05rem}
+.meta{color:var(--mute);font-size:.85rem}
+.tag{font-size:.7rem;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--mute);height:fit-content}
+.tag.sent{background:var(--acc);color:var(--accink);border-color:var(--acc)}
+button,.btn{font:inherit;font-size:.85rem;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;text-decoration:none;display:inline-block}
+button.p{background:var(--acc);color:var(--accink);border-color:var(--acc)}
+.btns{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+input,select,textarea{width:100%;font:inherit;font-size:.9rem;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+textarea{min-height:300px;line-height:1.45}
+label{font-size:.75rem;color:var(--mute);display:block;margin:8px 0 3px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.draft{display:none;margin-top:12px;border-top:1px solid var(--line);padding-top:4px}
+.draft.open{display:block}
+</style>
+</head>
+<body>
+<main>
+<h1>JNNY Outreach</h1>
+<div class="sub" id="upd">Loading…</div>
+
+<div class="filters">
+  <div><label>Genre</label><select id="g"><option value="">All genres</option></select></div>
+  <div><label>From</label><input type="date" id="f"></div>
+  <div><label>To</label><input type="date" id="t"></div>
+  <div><label>Search artist</label><input id="s" placeholder="Search…"></div>
+  <div><label>Status</label><select id="st"><option value="">All</option><option value="new">Not contacted</option><option value="sent">Sent</option></select></div>
+</div>
+<div class="sub" id="count"></div>
+<div id="list"></div>
+</main>
+
+<script>
+var KEY="jnny-state", ALL=[], state={info:{}};
+try{var s=localStorage.getItem(KEY);if(s)state=JSON.parse(s)}catch(e){}
+state.info=state.info||{};
+function save(){try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){}}
+function $(i){return document.getElementById(i)}
+function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function sid(s){return(s.artist+"|"+s.date).toLowerCase().replace(/[^a-z0-9|]/g,"")}
+function fmt(d){var p=d.split("-");return new Date(+p[0],+p[1]-1,+p[2]).toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"})}
+function inf(id){return state.info[id]=state.info[id]||{email:"",name:"",sent:false}}
+function q(t){return"https://www.google.com/search?q="+encodeURIComponent(t)}
+function draft(s){
+ var i=inf(sid(s)),hi=i.name?"Hi "+i.name+",":"Hi,";
+ return "Subject: Independent Interview with "+s.artist+" Austin TX - JNNY\n\n"+hi+"\n\nI hope you are having a great week.\n\nI’m reaching out on behalf of JNNY, my music/musician lifestyle brand, to request a short in-person interview with "+s.artist+" while they’re in Austin, Texas for their upcoming tour date at "+s.venue+" on "+fmt(s.date)+".\n\nI would love to discuss their albums, tour, and writing for a short 5 to 10 minute video and short-form clips.\n\nTime Commitment: 15 - 30 minutes\n\nWe are completely flexible around their availability on the day of the show or the days surrounding it to make this as seamless as possible for them and the team.\n\nOur team is an independent college group hoping to make engaging interviews with influential people. Our content brings in around 20-35k views per month and is consistent with its engagement.\n\nPlease let me know if this is something "+s.artist+" would be open to, and I’d be happy to provide any additional details or context!\n\nThank you,\nJonathan Alviar\nJNNY"}
+
+function filtered(){
+ var g=$("g").value,f=$("f").value,t=$("t").value,s=$("s").value.toLowerCase(),st=$("st").value;
+ return ALL.filter(function(x){
+  if(g&&x.genre!==g)return false;
+  if(f&&x.date<f)return false;
+  if(t&&x.date>t)return false;
+  if(s&&x.artist.toLowerCase().indexOf(s)<0)return false;
+  var sent=inf(sid(x)).sent;
+  if(st==="sent"&&!sent)return false;
+  if(st==="new"&&sent)return false;
+  return true})}
+
+function render(){
+ var list=filtered(),h="";
+ $("count").textContent=list.length+" show"+(list.length===1?"":"s");
+ list.forEach(function(s){var id=sid(s),i=inf(id);
+  h+='<div class="card"><div class="row"><div><div class="artist">'+esc(s.artist)+'</div><div class="meta">'+fmt(s.date)+' · '+esc(s.venue)+' · '+esc(s.genre)+(s.subgenre?" / "+esc(s.subgenre):"")+'</div></div><span class="tag'+(i.sent?' sent">Sent':'">Not contacted')+'</span></div>'
+  +'<div class="btns"><a class="btn" target="_blank" rel="noopener" href="'+q(s.artist+" publicist contact email")+'">Find publicist</a>'
+  +'<a class="btn" target="_blank" rel="noopener" href="'+q(s.artist+" press contact booking management")+'">Find management</a>'
+  +(s.url?'<a class="btn" target="_blank" rel="noopener" href="'+esc(s.url)+'">Tickets page</a>':'')
+  +'<button class="p" data-o="'+esc(id)+'">Draft email</button></div>'
+  +'<div class="draft" id="d-'+esc(id)+'"><div class="grid"><div><label>Publicist email</label><input data-f="email" data-id="'+esc(id)+'" value="'+esc(i.email)+'"></div><div><label>Their first name</label><input data-f="name" data-id="'+esc(id)+'" value="'+esc(i.name)+'"></div></div>'
+  +'<label>Draft</label><textarea id="t-'+esc(id)+'" readonly></textarea>'
+  +'<div class="btns"><button class="p" data-cp="'+esc(id)+'">Copy draft</button><button data-ce="'+esc(id)+'">Copy email</button><a class="btn" data-mail="'+esc(id)+'" href="#">Open in mail app</a><button data-sent="'+esc(id)+'">'+(i.sent?"Mark unsent":"Mark sent")+'</button></div></div></div>'});
+ $("list").innerHTML=h||'<div class="card">No shows match these filters.</div>';
+ if(state.open)open(state.open)}
+function byId(id){return ALL.filter(function(s){return sid(s)===id})[0]}
+function fill(id){var s=byId(id),t=$("t-"+id);if(!s||!t)return;var d=draft(s);t.value=d;
+ var a=document.querySelector('[data-mail="'+id+'"]');
+ if(a){var p=d.split("\n\n");a.href="mailto:"+encodeURIComponent(inf(id).email)+"?subject="+encodeURIComponent(p[0].replace("Subject: ",""))+"&body="+encodeURIComponent(p.slice(1).join("\n\n"))}}
+function open(id){var d=$("d-"+id);if(d){d.classList.add("open");fill(id)}}
+function copy(txt,btn){var o=btn.textContent;
+ function done(){btn.textContent="Copied ✓";setTimeout(function(){btn.textContent=o},1200)}
+ function fb(){var x=document.createElement("textarea");x.value=txt;document.body.appendChild(x);x.select();try{document.execCommand("copy");done()}catch(e){}x.remove()}
+ try{navigator.clipboard.writeText(txt).then(done,fb)}catch(e){fb()}}
+
+document.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+ if(b.dataset.o){state.open=b.dataset.o;open(b.dataset.o)}
+ if(b.dataset.cp){var d=draft(byId(b.dataset.cp));copy(d.slice(d.indexOf("\n\n")+2),b)}
+ if(b.dataset.ce){copy(inf(b.dataset.ce).email,b)}
+ if(b.dataset.sent){var i=inf(b.dataset.sent);i.sent=!i.sent;save();render()}});
+document.addEventListener("input",function(e){var t=e.target;
+ if(t.dataset.f){inf(t.dataset.id)[t.dataset.f]=t.value;save();fill(t.dataset.id)}
+ else if(["g","f","t","s","st"].indexOf(t.id)>=0){state.open=null;render()}});
+
+fetch("shows.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){
+ var today=new Date().toISOString().slice(0,10);
+ ALL=d.shows.filter(function(s){return s.date>=today});
+ $("upd").textContent="Austin music shows, next 90 days · updated "+d.updated;
+ var gs={};ALL.forEach(function(s){gs[s.genre]=1});
+ Object.keys(gs).sort().forEach(function(g){var o=document.createElement("option");o.value=g;o.textContent=g;$("g").appendChild(o)});
+ $("f").value=today;render()
+}).catch(function(){$("upd").textContent="Couldn’t load shows.json. Run the GitHub Action once (see README).";});
+</script>
+</body>
+</html>
