@@ -1,66 +1,6 @@
 {
- "updated": "2026-10-22 20:50 UTC",
+ "updated": "2026-10-23 16:38 UTC",
  "shows": [
-  {
-   "artist": "Ben Böhmer",
-   "event": "Ben Bohmer - ages 21+",
-   "date": "2026-10-22",
-   "time": "21:00:00",
-   "venue": "The Concourse Project",
-   "genre": "Dance/Electronic",
-   "subgenre": "Dance/Electronic",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKvZ"
-  },
-  {
-   "artist": "Katie Pruitt",
-   "event": "Katie Pruitt",
-   "date": "2026-10-22",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPjt"
-  },
-  {
-   "artist": "Marilyn Manson",
-   "event": "Marilyn Manson",
-   "date": "2026-10-22",
-   "time": "20:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Metal",
-   "subgenre": "Heavy Metal",
-   "url": "https://www.ticketmaster.com/marilyn-manson-austin-texas-10-22-2026/event/3A0064ED8C8749CB"
-  },
-  {
-   "artist": "Robert Ellis",
-   "event": "Robert Ellis w/ David Ramirez",
-   "date": "2026-10-22",
-   "time": "20:00:00",
-   "venue": "04 Center",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pbf9"
-  },
-  {
-   "artist": "The Jungle Giants",
-   "event": "The Jungle Giants w/ Morning Silk",
-   "date": "2026-10-22",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Indie Rock",
-   "url": "https://www.ticketmaster.com/the-jungle-giants-w-morning-silk-austin-texas-10-22-2026/event/3A0064AF0B1A8172"
-  },
-  {
-   "artist": "Vince Staples",
-   "event": "Vince Staples - Cry Baby Tour",
-   "date": "2026-10-22",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Urban",
-   "url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-austin-texas-10-22-2026/event/3A0064CA079B7D84"
-  },
   {
    "artist": "Cameron Whitcomb",
    "event": "Cameron Whitcomb - Kingdom of Fear Tour",
@@ -80,16 +20,6 @@
    "genre": "Country",
    "subgenre": "Country",
    "url": "https://www.ticketmaster.com/dusty-miller-and-the-spurflowers-w-austin-texas-10-23-2026/event/3A006543E9F594BE"
-  },
-  {
-   "artist": "FORMULA 1 UNITED STATES GRAND PRIX",
-   "event": "2026 Formula 1 MSC Cruises USGP - Friday Admission",
-   "date": "2026-10-23",
-   "time": "08:00:00",
-   "venue": "Circuit of The Americas",
-   "genre": "Motorsports/Racing",
-   "subgenre": "Motorsports/Racing",
-   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-23-2026/event/3A00642D96CF56D7"
   },
   {
    "artist": "MICO",
@@ -1950,6 +1880,16 @@
    "genre": "Miscellaneous",
    "subgenre": "Miscellaneous",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PkGa"
+  },
+  {
+   "artist": "Dan Penn & Spooner Oldham w/ Theo Lawrence & Barfield the Tyrant",
+   "event": "Dan Penn & Spooner Oldham w/ Theo Lawrence & Barfield the Tyrant",
+   "date": "2027-01-20",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/dan-penn-spooner-oldham-w-theo-austin-texas-01-20-2027/event/3A006529E4772C71"
   }
  ]
 }
