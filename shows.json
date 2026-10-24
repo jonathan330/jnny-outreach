@@ -1,46 +1,6 @@
 {
- "updated": "2026-10-23 16:38 UTC",
+ "updated": "2026-10-24 15:32 UTC",
  "shows": [
-  {
-   "artist": "Cameron Whitcomb",
-   "event": "Cameron Whitcomb - Kingdom of Fear Tour",
-   "date": "2026-10-23",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/cameron-whitcomb-kingdom-of-fear-tour-austin-texas-10-23-2026/event/3A0064A69F7BC028"
-  },
-  {
-   "artist": "Dusty Miller and the Spurflowers w/ Texas Rebels & Adam Walker",
-   "event": "Dusty Miller and the Spurflowers w/ Texas Rebels & Adam Walker",
-   "date": "2026-10-23",
-   "time": "21:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/dusty-miller-and-the-spurflowers-w-austin-texas-10-23-2026/event/3A006543E9F594BE"
-  },
-  {
-   "artist": "MICO",
-   "event": "MICO: Running From A Feeling Tour",
-   "date": "2026-10-23",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-austin-texas-10-23-2026/event/3A0064ACBB5CC7DF"
-  },
-  {
-   "artist": "glaive",
-   "event": "GLAIVE - GOD SAVE THE THREE TOUR",
-   "date": "2026-10-23",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-austin-texas-10-23-2026/event/3A0064A6A1E3C66F"
-  },
   {
    "artist": "Culture Wars",
    "event": "Culture Wars",
@@ -70,16 +30,6 @@
    "genre": "Hip-Hop/Rap",
    "subgenre": "Hip-Hop/Rap",
    "url": "https://www.ticketmaster.com/dax-the-anger-management-tour-austin-texas-10-24-2026/event/3A0064AC065B7623"
-  },
-  {
-   "artist": "FORMULA 1 UNITED STATES GRAND PRIX",
-   "event": "2026 Formula 1 MSC Cruises USGP - Saturday Admission",
-   "date": "2026-10-24",
-   "time": "08:00:00",
-   "venue": "Circuit of The Americas",
-   "genre": "Motorsports/Racing",
-   "subgenre": "Motorsports/Racing",
-   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-24-2026/event/3A00642D96C856BF"
   },
   {
    "artist": "Jolie Holland",
@@ -1890,6 +1840,16 @@
    "genre": "Blues",
    "subgenre": "Blues",
    "url": "https://www.ticketmaster.com/dan-penn-spooner-oldham-w-theo-austin-texas-01-20-2027/event/3A006529E4772C71"
+  },
+  {
+   "artist": "Alan Walker",
+   "event": "Alan Walker",
+   "date": "2027-01-21",
+   "time": "19:00:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "Dance/Electronic",
+   "subgenre": "Club Dance",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtfx"
   }
  ]
 }
