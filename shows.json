@@ -1,46 +1,6 @@
 {
- "updated": "2026-10-24 15:32 UTC",
+ "updated": "2026-10-25 15:42 UTC",
  "shows": [
-  {
-   "artist": "Culture Wars",
-   "event": "Culture Wars",
-   "date": "2026-10-24",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/culture-wars-austin-texas-10-24-2026/event/3A0064829B18E66A"
-  },
-  {
-   "artist": "DREAMS – A Tribute to Fleetwood Mac",
-   "event": "DREAMS - A Tribute to Fleetwood Mac",
-   "date": "2026-10-24",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/dreams-a-tribute-to-fleetwood-mac-austin-texas-10-24-2026/event/3A006538C4E4110B"
-  },
-  {
-   "artist": "Dax",
-   "event": "Dax - The Anger Management Tour",
-   "date": "2026-10-24",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Hip-Hop/Rap",
-   "url": "https://www.ticketmaster.com/dax-the-anger-management-tour-austin-texas-10-24-2026/event/3A0064AC065B7623"
-  },
-  {
-   "artist": "Jolie Holland",
-   "event": "Jolie Holland w/ Little Mazarn",
-   "date": "2026-10-24",
-   "time": "20:00:00",
-   "venue": "04 Center",
-   "genre": "Folk",
-   "subgenre": "Folk",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ4fU"
-  },
   {
    "artist": "Cardinal Bloom",
    "event": "Cardinal Bloom",
@@ -50,16 +10,6 @@
    "genre": "Rock",
    "subgenre": "Indie Rock",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ7Z_"
-  },
-  {
-   "artist": "FORMULA 1 UNITED STATES GRAND PRIX",
-   "event": "2026 Formula 1 MSC Cruises USGP - Sunday Admission",
-   "date": "2026-10-25",
-   "time": "08:00:00",
-   "venue": "Circuit of The Americas",
-   "genre": "Motorsports/Racing",
-   "subgenre": "Motorsports/Racing",
-   "url": "https://www.ticketmaster.com/2026-formula-1-msc-cruises-usgp-austin-texas-10-25-2026/event/3A00642D96C356B5"
   },
   {
    "artist": "Mom Jeans",
@@ -1850,6 +1800,16 @@
    "genre": "Dance/Electronic",
    "subgenre": "Club Dance",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtfx"
+  },
+  {
+   "artist": "Slim Thug",
+   "event": "Slim Thug",
+   "date": "2027-01-22",
+   "time": "21:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Hip-Hop/Rap",
+   "subgenre": "Urban",
+   "url": "https://www.ticketmaster.com/slim-thug-austin-texas-01-22-2027/event/3A006543EC359CB1"
   }
  ]
 }
