@@ -1,56 +1,6 @@
 {
- "updated": "2026-10-25 15:42 UTC",
+ "updated": "2026-10-26 18:23 UTC",
  "shows": [
-  {
-   "artist": "Cardinal Bloom",
-   "event": "Cardinal Bloom",
-   "date": "2026-10-25",
-   "time": "20:00:00",
-   "venue": "29th Street Ballroom",
-   "genre": "Rock",
-   "subgenre": "Indie Rock",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ7Z_"
-  },
-  {
-   "artist": "Mom Jeans",
-   "event": "Mom Jeans",
-   "date": "2026-10-25",
-   "time": "18:30:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Emo",
-   "url": "https://www.ticketmaster.com/mom-jeans-austin-texas-10-25-2026/event/3A0064A58E8B7BFE"
-  },
-  {
-   "artist": "Pete Yorn",
-   "event": "25th Anniversary of musicforthemorning after - Pete Yorn solo acoustic",
-   "date": "2026-10-25",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/25th-anniversary-of-musicforthemorning-after-pete-austin-texas-10-25-2026/event/3A0064D0B0389C5C"
-  },
-  {
-   "artist": "The Smashing Pumpkins",
-   "event": "The Smashing Pumpkins: The Rats In A Cage Tour",
-   "date": "2026-10-25",
-   "time": "20:00:00",
-   "venue": "Moody Center ATX",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-austin-texas-10-25-2026/event/3A0064AFFE9A5864"
-  },
-  {
-   "artist": "ZHU",
-   "event": "Zhu",
-   "date": "2026-10-25",
-   "time": "21:00:00",
-   "venue": "The Concourse Project",
-   "genre": "Dance/Electronic",
-   "subgenre": "Club Dance",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70auE"
-  },
   {
    "artist": "Blue Monday w/ Blue Mist Band",
    "event": "Blue Monday w/ Blue Mist Band",
@@ -93,13 +43,13 @@
   },
   {
    "artist": "Chasing Abbey",
-   "event": "Chasing Abbey",
+   "event": "Chasing Abbey w/ Killer Kaya",
    "date": "2026-10-28",
    "time": "20:00:00",
    "venue": "Antone's Nightclub",
    "genre": "Dance/Electronic",
    "subgenre": "Dance Pop",
-   "url": "https://www.ticketmaster.com/chasing-abbey-austin-texas-10-28-2026/event/3A0064662624D748"
+   "url": "https://www.ticketmaster.com/chasing-abbey-w-killer-kaya-austin-texas-10-28-2026/event/3A0064662624D748"
   },
   {
    "artist": "Teddy Swims",
@@ -1423,13 +1373,13 @@
   },
   {
    "artist": "Venna",
-   "event": "Venna",
+   "event": "Venna w/ Khal!l",
    "date": "2026-12-10",
    "time": "20:00:00",
    "venue": "Antone's Nightclub",
    "genre": "Hip-Hop/Rap",
    "subgenre": "Hip-Hop/Rap",
-   "url": "https://www.ticketmaster.com/venna-austin-texas-12-10-2026/event/3A006505C80EBA86"
+   "url": "https://www.ticketmaster.com/venna-w-khall-austin-texas-12-10-2026/event/3A006505C80EBA86"
   },
   {
    "artist": "Blue October",
@@ -1810,6 +1760,16 @@
    "genre": "Hip-Hop/Rap",
    "subgenre": "Urban",
    "url": "https://www.ticketmaster.com/slim-thug-austin-texas-01-22-2027/event/3A006543EC359CB1"
+  },
+  {
+   "artist": "Jackie Venson",
+   "event": "Jackie Venson's 5th Annual January Residency",
+   "date": "2027-01-23",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/jackie-vensons-5th-annual-january-residency-austin-texas-01-23-2027/event/3A006550D6714A34"
   }
  ]
 }
