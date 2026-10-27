@@ -1,36 +1,6 @@
 {
- "updated": "2026-10-26 18:23 UTC",
+ "updated": "2026-10-27 17:38 UTC",
  "shows": [
-  {
-   "artist": "Blue Monday w/ Blue Mist Band",
-   "event": "Blue Monday w/ Blue Mist Band",
-   "date": "2026-10-26",
-   "time": "19:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/blue-monday-w-blue-mist-band-austin-texas-10-26-2026/event/3A006549C5607D07"
-  },
-  {
-   "artist": "Emei",
-   "event": "EMEI - Night at the Opera Tour",
-   "date": "2026-10-26",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Alternative",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/emei-night-at-the-opera-tour-austin-texas-10-26-2026/event/3A006495E395E002"
-  },
-  {
-   "artist": "Hovvdy",
-   "event": "Hovvdy w/ Emma Ogier",
-   "date": "2026-10-26",
-   "time": "19:30:00",
-   "venue": "The Mohawk-Austin",
-   "genre": "Alternative",
-   "subgenre": "Alternative",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70-0x"
-  },
   {
    "artist": "A.R. Rahman",
    "event": "A. R. Rahman",
@@ -102,16 +72,6 @@
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7fy"
   },
   {
-   "artist": "Ramon Ayala",
-   "event": "Ramon Ayala: Historia De Un Final",
-   "date": "2026-10-30",
-   "time": "20:30:00",
-   "venue": "Moody Center ATX",
-   "genre": "World",
-   "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/ramon-ayala-historia-de-un-final-austin-texas-10-30-2026/event/3A006482F7863D39"
-  },
-  {
    "artist": "The War And Treaty",
    "event": "The War And Treaty",
    "date": "2026-10-30",
@@ -170,6 +130,16 @@
    "genre": "Rock",
    "subgenre": "Alternative Rock",
    "url": "https://www.ticketmaster.com/city-of-the-sun-austin-texas-11-01-2026/event/3A0064E9A77FB239"
+  },
+  {
+   "artist": "Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-02-2026/event/3A00655B91A95C39"
   },
   {
    "artist": "All Get Out",
@@ -370,6 +340,16 @@
    "genre": "Other",
    "subgenre": "Undefined",
    "url": "https://www.ticketmaster.com/grateful-shred-austin-texas-11-07-2026/event/3A0064829B8AE7F9"
+  },
+  {
+   "artist": "Soul Man Sam",
+   "event": "Soul Man Sam",
+   "date": "2026-11-07",
+   "time": "21:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/soul-man-sam-austin-texas-11-07-2026/event/3A0065553F2BFD6F"
   },
   {
    "artist": "Steve Lacy",
@@ -600,6 +580,16 @@
    "genre": "World",
    "subgenre": "Latin",
    "url": "https://www.ticketmaster.com/el-tri-austin-texas-11-13-2026/event/3A0064A1C57166AE"
+  },
+  {
+   "artist": "Franklin Jonas & The Byzantines",
+   "event": "Franklin Jonas & The Byzantines",
+   "date": "2026-11-13",
+   "time": "22:00:00",
+   "venue": "Stubb's Indoors",
+   "genre": "Country",
+   "subgenre": "Alternative Country",
+   "url": "https://www.ticketmaster.com/franklin-jonas-the-byzantines-austin-texas-11-13-2026/event/3A00655AEE834EF6"
   },
   {
    "artist": "Jonas Brothers",
@@ -1630,6 +1620,16 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/the-jungle-show-w-gibbons-vaughan-austin-texas-12-28-2026/event/3A00654C1BEE8A08"
+  },
+  {
+   "artist": "Benny Turner Album Release & Freddie King Celebration",
+   "event": "Benny Turner Album Release & Freddie King Celebration",
+   "date": "2026-12-29",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/benny-turner-album-release-freddie-king-austin-texas-12-29-2026/event/3A00655540470F53"
   },
   {
    "artist": "The Temptations",
