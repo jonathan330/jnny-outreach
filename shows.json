@@ -1,16 +1,6 @@
 {
- "updated": "2026-10-27 17:38 UTC",
+ "updated": "2026-10-28 17:59 UTC",
  "shows": [
-  {
-   "artist": "A.R. Rahman",
-   "event": "A. R. Rahman",
-   "date": "2026-10-27",
-   "time": "19:30:00",
-   "venue": "Bass Concert Hall",
-   "genre": "World",
-   "subgenre": "World",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvsGb"
-  },
   {
    "artist": "Chasing Abbey",
    "event": "Chasing Abbey w/ Killer Kaya",
@@ -115,7 +105,7 @@
    "artist": "Mr. Fantasy",
    "event": "Mr. Fantasy - Sexy Saturday Nights Tour",
    "date": "2026-10-31",
-   "time": "18:00:00",
+   "time": "19:00:00",
    "venue": "Scoot Inn",
    "genre": "Pop",
    "subgenre": "Pop",
@@ -870,6 +860,16 @@
    "genre": "Dance/Electronic",
    "subgenre": "Club Dance",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8-Z"
+  },
+  {
+   "artist": "Paige Plaisance",
+   "event": "Paige Plaisance",
+   "date": "2026-11-20",
+   "time": "22:30:00",
+   "venue": "Stubb's Indoors",
+   "genre": "Country",
+   "subgenre": "Contemporary Country",
+   "url": "https://www.ticketmaster.com/paige-plaisance-austin-texas-11-20-2026/event/3A00655B08AE69C1"
   },
   {
    "artist": "Paul Cauthen",
