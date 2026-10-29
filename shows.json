@@ -1,36 +1,6 @@
 {
- "updated": "2026-10-28 17:59 UTC",
+ "updated": "2026-10-29 18:09 UTC",
  "shows": [
-  {
-   "artist": "Chasing Abbey",
-   "event": "Chasing Abbey w/ Killer Kaya",
-   "date": "2026-10-28",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Dance/Electronic",
-   "subgenre": "Dance Pop",
-   "url": "https://www.ticketmaster.com/chasing-abbey-w-killer-kaya-austin-texas-10-28-2026/event/3A0064662624D748"
-  },
-  {
-   "artist": "Teddy Swims",
-   "event": "Teddy Swims: The UGLY Tour",
-   "date": "2026-10-28",
-   "time": "19:00:00",
-   "venue": "Moody Center ATX",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/teddy-swims-the-ugly-tour-austin-texas-10-28-2026/event/3A00648FB5BDA148"
-  },
-  {
-   "artist": "almost monday",
-   "event": "almost monday - THANK GOD IT'S ALMOST MONDAY",
-   "date": "2026-10-28",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/almost-monday-thank-god-its-almost-austin-texas-10-28-2026/event/3A0064D2CA0722FF"
-  },
   {
    "artist": "Club 90s",
    "event": "Club 90s Presents Thrillerween",
@@ -123,7 +93,7 @@
   },
   {
    "artist": "Soul Man Sam",
-   "event": "Blue Monday w/ Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam & Brad Stivers",
    "date": "2026-11-02",
    "time": "19:00:00",
    "venue": "Antone's Nightclub",
@@ -722,6 +692,16 @@
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZjo"
   },
   {
+   "artist": "Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam & Lindsay Beaver ",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-16-2026/event/3A00655CCC08D36E"
+  },
+  {
    "artist": "Amble",
    "event": "Amble",
    "date": "2026-11-17",
@@ -1010,6 +990,16 @@
    "genre": "Alternative",
    "subgenre": "Indie Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7vf-"
+  },
+  {
+   "artist": "Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam & Brad Stivers",
+   "date": "2026-11-23",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-23-2026/event/3A00655CCC0AD377"
   },
   {
    "artist": "So Called Underground w/ Greyson Turner & Jeska",
