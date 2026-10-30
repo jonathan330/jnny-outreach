@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 18:09 UTC",
+ "updated": "2026-10-30 17:48 UTC",
  "shows": [
   {
    "artist": "Club 90s",
@@ -1500,6 +1500,16 @@
    "genre": "Blues",
    "subgenre": "Blues",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAevf-"
+  },
+  {
+   "artist": "Robert Earl Keen",
+   "event": "Robert Earl Keen w/ Drayton Farley",
+   "date": "2026-12-17",
+   "time": "20:00:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7IP3"
   },
   {
    "artist": "Tanner Usrey",
