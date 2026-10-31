@@ -1,46 +1,6 @@
 {
- "updated": "2026-10-30 17:48 UTC",
+ "updated": "2026-10-31 16:56 UTC",
  "shows": [
-  {
-   "artist": "Club 90s",
-   "event": "Club 90s Presents Thrillerween",
-   "date": "2026-10-30",
-   "time": "20:30:00",
-   "venue": "Emo's Austin",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/club-90s-presents-thrillerween-austin-texas-10-30-2026/event/3A006536D0F2E3B2"
-  },
-  {
-   "artist": "Dombresky",
-   "event": "Dombresky (21 and Over)",
-   "date": "2026-10-30",
-   "time": "21:00:00",
-   "venue": "The Concourse Project",
-   "genre": "Other",
-   "subgenre": "Other",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PyqZ"
-  },
-  {
-   "artist": "Goodbye June",
-   "event": "Goodbye June w/ Cole Barnhill",
-   "date": "2026-10-30",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7fy"
-  },
-  {
-   "artist": "The War And Treaty",
-   "event": "The War And Treaty",
-   "date": "2026-10-30",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Folk",
-   "subgenre": "Americana",
-   "url": "https://www.ticketmaster.com/the-war-and-treaty-austin-texas-10-30-2026/event/3A0064C2AB9E9641"
-  },
   {
    "artist": "Four Tet",
    "event": "Four Tet (21 and Over)",
@@ -1770,6 +1730,16 @@
    "genre": "Blues",
    "subgenre": "Blues",
    "url": "https://www.ticketmaster.com/jackie-vensons-5th-annual-january-residency-austin-texas-01-23-2027/event/3A006550D6714A34"
+  },
+  {
+   "artist": "Eddie 9V",
+   "event": "Eddie 9V",
+   "date": "2027-01-28",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Soul-Blues",
+   "url": "https://www.ticketmaster.com/eddie-9v-austin-texas-01-28-2027/event/3A006543E17F76D8"
   }
  ]
 }
