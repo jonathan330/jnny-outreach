@@ -1,16 +1,6 @@
 {
- "updated": "2026-11-01 17:43 UTC",
+ "updated": "2026-11-02 21:29 UTC",
  "shows": [
-  {
-   "artist": "City of the Sun",
-   "event": "City of the Sun",
-   "date": "2026-11-01",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/city-of-the-sun-austin-texas-11-01-2026/event/3A0064E9A77FB239"
-  },
   {
    "artist": "Soul Man Sam",
    "event": "Blue Monday w/ Soul Man Sam & Brad Stivers",
@@ -683,13 +673,13 @@
   },
   {
    "artist": "Aterciopelados",
-   "event": "Aterciopelados: La Pipa De Laz Paz 30 Anos Tour",
+   "event": "KUTX's Horizontes Pres:Aterciopelados: La Pipa De Laz Paz 30 Anos Tour",
    "date": "2026-11-19",
    "time": "17:00:00",
    "venue": "Scoot Inn",
    "genre": "World",
    "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/aterciopelados-la-pipa-de-laz-paz-austin-texas-11-19-2026/event/3A0064F5E8D0253C"
+   "url": "https://www.ticketmaster.com/kutxs-horizontes-presaterciopelados-la-pipa-de-austin-texas-11-19-2026/event/3A0064F5E8D0253C"
   },
   {
    "artist": "Band of Horses",
@@ -1700,6 +1690,16 @@
    "genre": "Blues",
    "subgenre": "Soul-Blues",
    "url": "https://www.ticketmaster.com/eddie-9v-austin-texas-01-28-2027/event/3A006543E17F76D8"
+  },
+  {
+   "artist": "Jackie Venson",
+   "event": "Jackie Venson's 5th Annual January Residency",
+   "date": "2027-01-30",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/jackie-vensons-5th-annual-january-residency-austin-texas-01-30-2027/event/3A006550D6734A3F"
   }
  ]
 }
