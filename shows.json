@@ -1,36 +1,6 @@
 {
- "updated": "2026-11-03 19:12 UTC",
+ "updated": "2026-11-04 19:28 UTC",
  "shows": [
-  {
-   "artist": "All Get Out",
-   "event": "All Get Out",
-   "date": "2026-11-03",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvavp"
-  },
-  {
-   "artist": "Doja Cat",
-   "event": "Doja Cat - Tour Ma Vie World Tour",
-   "date": "2026-11-03",
-   "time": "19:30:00",
-   "venue": "Moody Center ATX",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Urban",
-   "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-austin-texas-11-03-2026/event/3A00633ACFDC7883"
-  },
-  {
-   "artist": "Knox",
-   "event": "Knox",
-   "date": "2026-11-03",
-   "time": "18:30:00",
-   "venue": "Emo's Austin",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/knox-austin-texas-11-03-2026/event/3A0064E6DE9ABC7D"
-  },
   {
    "artist": "Adelitas Way",
    "event": "Adelitas Way",
@@ -250,6 +220,16 @@
    "genre": "Other",
    "subgenre": "Undefined",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv6Gd"
+  },
+  {
+   "artist": "Barton Hills Choir",
+   "event": "Barton Hills Choir",
+   "date": "2026-11-08",
+   "time": "17:00:00",
+   "venue": "3TEN ACL Live",
+   "genre": "Other",
+   "subgenre": "Other",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7o4J"
   },
   {
    "artist": "MANÁ",
@@ -540,6 +520,16 @@
    "genre": "Pop",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptj3"
+  },
+  {
+   "artist": "Ruthie Craft",
+   "event": "Ruthie Craft & KNETX",
+   "date": "2026-11-14",
+   "time": "22:30:00",
+   "venue": "Stubb's Indoors",
+   "genre": "Pop",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/ruthie-craft-knetx-austin-texas-11-14-2026/event/3A006563CC3EF63F"
   },
   {
    "artist": "SWITCHFOOT",
@@ -1552,6 +1542,16 @@
    "url": "https://www.ticketmaster.com/bob-schneider-austin-texas-12-30-2026/event/3A006530D34A3780"
   },
   {
+   "artist": "HeartByrne",
+   "event": "HeartByrne",
+   "date": "2026-12-31",
+   "time": "20:45:00",
+   "venue": "3TEN ACL Live",
+   "genre": "Other",
+   "subgenre": "Undefined",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7V4d"
+  },
+  {
    "artist": "Magoo",
    "event": "Magoo",
    "date": "2026-12-31",
@@ -1652,6 +1652,16 @@
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtfx"
   },
   {
+   "artist": "CG5",
+   "event": "CG5",
+   "date": "2027-01-22",
+   "time": "19:00:00",
+   "venue": "3TEN ACL Live",
+   "genre": "Pop",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7E8v"
+  },
+  {
    "artist": "Slim Thug",
    "event": "Slim Thug",
    "date": "2027-01-22",
@@ -1680,6 +1690,16 @@
    "genre": "Blues",
    "subgenre": "Soul-Blues",
    "url": "https://www.ticketmaster.com/eddie-9v-austin-texas-01-28-2027/event/3A006543E17F76D8"
+  },
+  {
+   "artist": "Liam St. John",
+   "event": "Liam St. John",
+   "date": "2027-01-29",
+   "time": "20:00:00",
+   "venue": "3TEN ACL Live",
+   "genre": "Rock",
+   "subgenre": "Blues-Rock",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7FfY"
   },
   {
    "artist": "Jackie Venson",
