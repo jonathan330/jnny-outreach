@@ -1,46 +1,6 @@
 {
- "updated": "2026-11-04 19:28 UTC",
+ "updated": "2026-11-05 19:38 UTC",
  "shows": [
-  {
-   "artist": "Adelitas Way",
-   "event": "Adelitas Way",
-   "date": "2026-11-04",
-   "time": "18:00:00",
-   "venue": "Come and Take It Live",
-   "genre": "Metal",
-   "subgenre": "Heavy Metal",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ-_f"
-  },
-  {
-   "artist": "Shadowgrass",
-   "event": "An Evening with Shadowgrass",
-   "date": "2026-11-04",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Country",
-   "subgenre": "Bluegrass",
-   "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-austin-texas-11-04-2026/event/3A00648AA621A4C8"
-  },
-  {
-   "artist": "Slow Pulp",
-   "event": "Slow Pulp",
-   "date": "2026-11-04",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Pop",
-   "subgenre": "Indie Pop",
-   "url": "https://www.ticketmaster.com/slow-pulp-austin-texas-11-04-2026/event/3A0064A58FC6812F"
-  },
-  {
-   "artist": "Stephen Day",
-   "event": "Stephen Day",
-   "date": "2026-11-04",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P3vO"
-  },
   {
    "artist": "Bonobo",
    "event": "Bonobo: Distance in Static Live North American Tour",
@@ -75,7 +35,7 @@
    "artist": "Knocked Loose",
    "event": "Knocked Loose & Denzel Curry",
    "date": "2026-11-05",
-   "time": "19:00:00",
+   "time": "18:45:00",
    "venue": "Moody Amphitheater",
    "genre": "Metal",
    "subgenre": "Heavy Metal",
@@ -1092,6 +1052,16 @@
    "url": "https://www.axs.com/events/1595745/victoria-monet-tickets?skin=acllive"
   },
   {
+   "artist": "Danny Brown",
+   "event": "Danny Brown - Mohawk 20th Anniversary",
+   "date": "2026-12-03",
+   "time": "20:00:00",
+   "venue": "The Mohawk-Austin",
+   "genre": "Hip-Hop/Rap",
+   "subgenre": "Urban",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAekGK"
+  },
+  {
    "artist": "Los Tucanes De Tijuana",
    "event": "Los Tucanes de Tijuana",
    "date": "2026-12-03",
@@ -1140,6 +1110,16 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvxPS"
+  },
+  {
+   "artist": "The Black Angels",
+   "event": "Black Angels",
+   "date": "2026-12-04",
+   "time": "20:00:00",
+   "venue": "The Mohawk-Austin",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7KOZ"
   },
   {
    "artist": "American Aquarium",
@@ -1460,6 +1440,16 @@
    "genre": "Other",
    "subgenre": "Other",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe44y"
+  },
+  {
+   "artist": "Soulhat",
+   "event": "Soulhat",
+   "date": "2026-12-19",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Alternative Rock",
+   "url": "https://www.ticketmaster.com/soulhat-austin-texas-12-19-2026/event/3A006564E241BE4D"
   },
   {
    "artist": "In The Christmas Mood",
