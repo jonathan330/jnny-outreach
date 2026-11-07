@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-06 18:59 UTC",
+ "updated": "2026-11-07 17:32 UTC",
  "shows": [
-  {
-   "artist": "Austin Food & Wine Festival",
-   "event": "Austin Food + Wine Festival",
-   "date": "2026-11-06",
-   "time": "19:00:00",
-   "venue": "Auditorium Shores",
-   "genre": "Other",
-   "subgenre": "Undefined",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv6Gv"
-  },
-  {
-   "artist": "John Summit",
-   "event": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-   "date": "2026-11-06",
-   "time": "19:00:00",
-   "venue": "Moody Center ATX",
-   "genre": "Dance/Electronic",
-   "subgenre": "Dance/Electronic",
-   "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-austin-texas-11-06-2026/event/3A0064B3DA33FD80"
-  },
-  {
-   "artist": "Lenny Pearce",
-   "event": "Lenny Pearce - Toddler Rave World Tour",
-   "date": "2026-11-06",
-   "time": "17:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Dance/Electronic",
-   "subgenre": "Dance/Electronic",
-   "url": "https://www.ticketmaster.com/lenny-pearce-toddler-rave-world-tour-austin-texas-11-06-2026/event/3A0064DDBE2DC42C"
-  },
-  {
-   "artist": "Low Cut Connie",
-   "event": "Low Cut Connie w/ Laney Jones and the Spirits",
-   "date": "2026-11-06",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/low-cut-connie-w-laney-jones-austin-texas-11-06-2026/event/3A00648B0ACD5EA2"
-  },
-  {
-   "artist": "They Might Be Giants",
-   "event": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
-   "date": "2026-11-06",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-06-2026/event/3A006487D8DA2D98"
-  },
   {
    "artist": "Austin Food & Wine Festival",
    "event": "Austin Food + Wine Festival",
@@ -156,7 +106,7 @@
    "event": "The Army, The Navy",
    "date": "2026-11-08",
    "time": "17:00:00",
-   "venue": "Scoot Inn",
+   "venue": "Emo's Austin",
    "genre": "Pop",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64"
@@ -1740,6 +1690,16 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe83d"
+  },
+  {
+   "artist": "Andrea Bocelli",
+   "event": "ANDREA BOCELLI \"Romanza - 30th Anniversary World Tour\"",
+   "date": "2027-02-04",
+   "time": "20:00:00",
+   "venue": "Moody Center ATX",
+   "genre": "Classical",
+   "subgenre": "Classical/Vocal",
+   "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-austin-texas-02-04-2027/event/3A006521A5AD9867"
   }
  ]
 }
