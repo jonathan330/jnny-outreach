@@ -1,66 +1,6 @@
 {
- "updated": "2026-11-07 17:32 UTC",
+ "updated": "2026-11-08 17:43 UTC",
  "shows": [
-  {
-   "artist": "Austin Food & Wine Festival",
-   "event": "Austin Food + Wine Festival",
-   "date": "2026-11-07",
-   "time": "12:30:00",
-   "venue": "Auditorium Shores",
-   "genre": "Other",
-   "subgenre": "Undefined",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv6Ge"
-  },
-  {
-   "artist": "Grateful Shred",
-   "event": "Grateful Shred",
-   "date": "2026-11-07",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Other",
-   "subgenre": "Undefined",
-   "url": "https://www.ticketmaster.com/grateful-shred-austin-texas-11-07-2026/event/3A0064829B8AE7F9"
-  },
-  {
-   "artist": "Soul Man Sam",
-   "event": "Soul Man Sam",
-   "date": "2026-11-07",
-   "time": "21:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/soul-man-sam-austin-texas-11-07-2026/event/3A0065553F2BFD6F"
-  },
-  {
-   "artist": "Steve Lacy",
-   "event": "Steve Lacy: Oh yeah? Tour",
-   "date": "2026-11-07",
-   "time": "20:00:00",
-   "venue": "Moody Amphitheater",
-   "genre": "R&B",
-   "subgenre": "R&B",
-   "url": "https://www.ticketmaster.com/steve-lacy-oh-yeah-tour-austin-texas-11-07-2026/event/3A006505BA5CA4CF"
-  },
-  {
-   "artist": "They Might Be Giants",
-   "event": "TWO NIGHTS WITH THEY MIGHT BE GIANTS",
-   "date": "2026-11-07",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/two-nights-with-they-might-be-austin-texas-11-07-2026/event/3A006487D9252E5F"
-  },
-  {
-   "artist": "Turnover",
-   "event": "Turnover - Down On Earth Tour",
-   "date": "2026-11-07",
-   "time": "18:30:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-austin-texas-11-07-2026/event/3A0064D2D3014AA9"
-  },
   {
    "artist": "Austin Food & Wine Festival",
    "event": "Austin Food + Wine Festival",
@@ -105,7 +45,7 @@
    "artist": "The Army, The Navy",
    "event": "The Army, The Navy",
    "date": "2026-11-08",
-   "time": "17:00:00",
+   "time": "18:00:00",
    "venue": "Emo's Austin",
    "genre": "Pop",
    "subgenre": "Pop",
@@ -1700,6 +1640,26 @@
    "genre": "Classical",
    "subgenre": "Classical/Vocal",
    "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-austin-texas-02-04-2027/event/3A006521A5AD9867"
+  },
+  {
+   "artist": "ALLEYCVT",
+   "event": "ALLEYCVT - Beginning of Forever Tour",
+   "date": "2027-02-05",
+   "time": "19:00:00",
+   "venue": "Stubb's Waller Creek Amphitheater",
+   "genre": "Dance/Electronic",
+   "subgenre": "Dance/Electronic",
+   "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-austin-texas-02-05-2027/event/3A00655ABF37BC2A"
+  },
+  {
+   "artist": "BoomBox",
+   "event": "BoomBox",
+   "date": "2027-02-05",
+   "time": "21:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Dance/Electronic",
+   "subgenre": "Club Dance",
+   "url": "https://www.ticketmaster.com/boombox-austin-texas-02-05-2027/event/3A006548C4F34523"
   }
  ]
 }
