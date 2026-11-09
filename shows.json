@@ -1,66 +1,6 @@
 {
- "updated": "2026-11-08 17:43 UTC",
+ "updated": "2026-11-09 22:00 UTC",
  "shows": [
-  {
-   "artist": "Austin Food & Wine Festival",
-   "event": "Austin Food + Wine Festival",
-   "date": "2026-11-08",
-   "time": "12:30:00",
-   "venue": "Auditorium Shores",
-   "genre": "Other",
-   "subgenre": "Undefined",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv6Gd"
-  },
-  {
-   "artist": "Barton Hills Choir",
-   "event": "Barton Hills Choir",
-   "date": "2026-11-08",
-   "time": "17:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Other",
-   "subgenre": "Other",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7o4J"
-  },
-  {
-   "artist": "MANÁ",
-   "event": "MANÁ: VIVIR SIN AIRE TOUR",
-   "date": "2026-11-08",
-   "time": "20:30:00",
-   "venue": "Moody Center ATX",
-   "genre": "World",
-   "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/mana-vivir-sin-aire-tour-austin-texas-11-08-2026/event/3A0063780576D4F7"
-  },
-  {
-   "artist": "Noah Gundersen",
-   "event": "Noah Gundersen w/ Runner",
-   "date": "2026-11-08",
-   "time": "20:00:00",
-   "venue": "29th Street Ballroom",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70z_g"
-  },
-  {
-   "artist": "The Army, The Navy",
-   "event": "The Army, The Navy",
-   "date": "2026-11-08",
-   "time": "18:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/the-army-the-navy-austin-texas-11-08-2026/event/3A0064CA066E7A64"
-  },
-  {
-   "artist": "They Might Be Giants",
-   "event": "Three Nights with They Might Be Giants",
-   "date": "2026-11-08",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/three-nights-with-they-might-be-austin-texas-11-08-2026/event/3A006487DA93321B"
-  },
   {
    "artist": "6LACK",
    "event": "10 Years of 6LACK Tour",
@@ -272,16 +212,6 @@
    "url": "https://www.ticketmaster.com/danna-the-bedroom-sessions-us-tour-austin-texas-11-14-2026/event/3A00651C9A4A98E5"
   },
   {
-   "artist": "Israel Nash",
-   "event": "Israel Nash w/ Mid America",
-   "date": "2026-11-14",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/israel-nash-w-mid-america-austin-texas-11-14-2026/event/3A0064B3D945FC4A"
-  },
-  {
    "artist": "James McMurtry",
    "event": "James McMurtry",
    "date": "2026-11-14",
@@ -340,6 +270,16 @@
    "genre": "Metal",
    "subgenre": "Metal",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y8P"
+  },
+  {
+   "artist": "Sugaree & Cold Sweat",
+   "event": "Sugaree & Cold Sweat",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/sugaree-cold-sweat-austin-texas-11-14-2026/event/3A006569BA9990C5"
   },
   {
    "artist": "Clara La San",
@@ -490,6 +430,16 @@
    "genre": "R&B",
    "subgenre": "R&B",
    "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-austin-texas-11-19-2026/event/3A00647300BB9F75"
+  },
+  {
+   "artist": "The Crystal Fall",
+   "event": "The Crystal Fall & Paper Sister",
+   "date": "2026-11-19",
+   "time": "22:30:00",
+   "venue": "Stubb's Indoors",
+   "genre": "Rock",
+   "subgenre": "Alternative Rock",
+   "url": "https://www.ticketmaster.com/the-crystal-fall-paper-sister-austin-texas-11-19-2026/event/3A006566DB1231CA"
   },
   {
    "artist": "Bryan Andrews",
@@ -1660,6 +1610,26 @@
    "genre": "Dance/Electronic",
    "subgenre": "Club Dance",
    "url": "https://www.ticketmaster.com/boombox-austin-texas-02-05-2027/event/3A006548C4F34523"
+  },
+  {
+   "artist": "BoomBox",
+   "event": "BoomBox",
+   "date": "2027-02-06",
+   "time": "21:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Dance/Electronic",
+   "subgenre": "Club Dance",
+   "url": "https://www.ticketmaster.com/boombox-austin-texas-02-06-2027/event/3A006548C4F6452D"
+  },
+  {
+   "artist": "Gracie Abrams",
+   "event": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
+   "date": "2027-02-06",
+   "time": "20:00:00",
+   "venue": "Moody Center ATX",
+   "genre": "Pop",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-austin-texas-02-06-2027/event/3A00655DA08671F8"
   }
  ]
 }
