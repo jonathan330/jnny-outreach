@@ -1,46 +1,6 @@
 {
- "updated": "2026-11-09 22:00 UTC",
+ "updated": "2026-11-10 19:25 UTC",
  "shows": [
-  {
-   "artist": "6LACK",
-   "event": "10 Years of 6LACK Tour",
-   "date": "2026-11-09",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Hip-Hop/Rap",
-   "url": "https://www.ticketmaster.com/10-years-of-6lack-tour-austin-texas-11-09-2026/event/3A0064B6A505AD42"
-  },
-  {
-   "artist": "Art Garfunkel",
-   "event": "Art Garfunkel",
-   "date": "2026-11-09",
-   "time": "21:00:00",
-   "venue": "Austin City Limits Live at The Moody Theater",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8ev"
-  },
-  {
-   "artist": "Olivia O'Brien",
-   "event": "Olivia O'Brien Presents: The PIXIE Tour",
-   "date": "2026-11-09",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/olivia-obrien-presents-the-pixie-tour-austin-texas-11-09-2026/event/3A0064B404ADBCC9"
-  },
-  {
-   "artist": "Rival Sons",
-   "event": "Rival Sons - Domestic Bliss Tour",
-   "date": "2026-11-09",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/rival-sons-domestic-bliss-tour-austin-texas-11-09-2026/event/3A0064D0FAA324B2"
-  },
   {
    "artist": "Greg Freeman",
    "event": "Greg Freeman",
@@ -1592,6 +1552,16 @@
    "url": "https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniversary-world-austin-texas-02-04-2027/event/3A006521A5AD9867"
   },
   {
+   "artist": "Fox N' Vead",
+   "event": "Fox N' Vead featuring Logan Jahnke",
+   "date": "2027-02-04",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Country",
+   "subgenre": "Alternative Country",
+   "url": "https://www.ticketmaster.com/fox-n-vead-featuring-logan-jahnke-austin-texas-02-04-2027/event/3A00655BAFDAA3D0"
+  },
+  {
    "artist": "ALLEYCVT",
    "event": "ALLEYCVT - Beginning of Forever Tour",
    "date": "2027-02-05",
@@ -1630,6 +1600,36 @@
    "genre": "Pop",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-austin-texas-02-06-2027/event/3A00655DA08671F8"
+  },
+  {
+   "artist": "Fink",
+   "event": "Fink w/ Maggie Koerner",
+   "date": "2027-02-07",
+   "time": "20:00:00",
+   "venue": "04 Center",
+   "genre": "Folk",
+   "subgenre": "Folk",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvKba"
+  },
+  {
+   "artist": "Madds Buckley",
+   "event": "Madds Buckley",
+   "date": "2027-02-07",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Alternative",
+   "subgenre": "Alternative",
+   "url": "https://www.ticketmaster.com/madds-buckley-austin-texas-02-07-2027/event/3A0064EDE3CDC539"
+  },
+  {
+   "artist": "The Fab Four - The Ultimate Tribute",
+   "event": "The Fab Four - The Ultimate Tribute",
+   "date": "2027-02-07",
+   "time": "19:30:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "Other",
+   "subgenre": "Undefined",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7F4A"
   }
  ]
 }
