@@ -1,76 +1,6 @@
 {
- "updated": "2026-11-13 19:20 UTC",
+ "updated": "2026-11-14 17:45 UTC",
  "shows": [
-  {
-   "artist": "Earlybirds Club",
-   "event": "Earlybirds Club",
-   "date": "2026-11-13",
-   "time": "18:00:00",
-   "venue": "Austin City Limits Live at The Moody Theater",
-   "genre": "Dance/Electronic",
-   "subgenre": "Club Dance",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8aS"
-  },
-  {
-   "artist": "El Tri",
-   "event": "El Tri",
-   "date": "2026-11-13",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "World",
-   "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/el-tri-austin-texas-11-13-2026/event/3A0064A1C57166AE"
-  },
-  {
-   "artist": "Franklin Jonas & The Byzantines",
-   "event": "Franklin Jonas & The Byzantines",
-   "date": "2026-11-13",
-   "time": "22:30:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Country",
-   "subgenre": "Alternative Country",
-   "url": "https://www.ticketmaster.com/franklin-jonas-the-byzantines-austin-texas-11-13-2026/event/3A00655AEE834EF6"
-  },
-  {
-   "artist": "Jonas Brothers",
-   "event": "Jonas Brothers: The Burning Up Tour All Over Again",
-   "date": "2026-11-13",
-   "time": "19:30:00",
-   "venue": "Moody Center ATX",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-austin-texas-11-13-2026/event/3A00650D02CC62D0"
-  },
-  {
-   "artist": "Matt the Electrician",
-   "event": "Matt the Electrician / 30 Years in South Austin",
-   "date": "2026-11-13",
-   "time": "20:00:00",
-   "venue": "04 Center",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvyQF"
-  },
-  {
-   "artist": "Night Cap",
-   "event": "Night Cap",
-   "date": "2026-11-13",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Rock",
-   "subgenre": "Rock",
-   "url": "https://www.ticketmaster.com/night-cap-austin-texas-11-13-2026/event/3A006518F5D0291F"
-  },
-  {
-   "artist": "Tiny Habits",
-   "event": "Tiny Habits",
-   "date": "2026-11-13",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Rock",
-   "subgenre": "Indie Rock",
-   "url": "https://www.ticketmaster.com/tiny-habits-austin-texas-11-13-2026/event/3A0064C4B407ABE7"
-  },
   {
    "artist": "DANNA",
    "event": "DANNA - THE BEDROOM SESSIONS US TOUR",
@@ -543,13 +473,13 @@
   },
   {
    "artist": "Quentin Moore",
-   "event": "Quentin Moore",
+   "event": "Quentin Moore w/ Vandell Andrew ",
    "date": "2026-11-25",
    "time": "20:00:00",
    "venue": "Antone's Nightclub",
    "genre": "R&B",
    "subgenre": "Neo-Soul",
-   "url": "https://www.ticketmaster.com/quentin-moore-austin-texas-11-25-2026/event/3A0065150BDB3A6C"
+   "url": "https://www.ticketmaster.com/quentin-moore-w-vandell-andrew-austin-texas-11-25-2026/event/3A0065150BDB3A6C"
   },
   {
    "artist": "Dumpstaphunk",
@@ -1550,6 +1480,16 @@
    "genre": "Other",
    "subgenre": "Undefined",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7F4A"
+  },
+  {
+   "artist": "Bella Poarch",
+   "event": "Bella Poarch: Picnic at the Cemetery Tour",
+   "date": "2027-02-11",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Pop",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/bella-poarch-picnic-at-the-cemetery-austin-texas-02-11-2027/event/3A006543E7698B73"
   }
  ]
 }
