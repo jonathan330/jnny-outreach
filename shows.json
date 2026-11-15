@@ -1,86 +1,6 @@
 {
- "updated": "2026-11-14 17:45 UTC",
+ "updated": "2026-11-15 18:35 UTC",
  "shows": [
-  {
-   "artist": "DANNA",
-   "event": "DANNA - THE BEDROOM SESSIONS US TOUR",
-   "date": "2026-11-14",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Latin",
-   "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/danna-the-bedroom-sessions-us-tour-austin-texas-11-14-2026/event/3A00651C9A4A98E5"
-  },
-  {
-   "artist": "James McMurtry",
-   "event": "James McMurtry",
-   "date": "2026-11-14",
-   "time": "20:00:00",
-   "venue": "04 Center",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAAa"
-  },
-  {
-   "artist": "King Buffalo",
-   "event": "King Buffalo w/ L.A. Witch",
-   "date": "2026-11-14",
-   "time": "20:00:00",
-   "venue": "The Mohawk-Austin",
-   "genre": "Rock",
-   "subgenre": "Psychedelic",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YFA"
-  },
-  {
-   "artist": "Mannequin Pussy",
-   "event": "Mannequin Pu**y w/ Wednesday - Band",
-   "date": "2026-11-14",
-   "time": "20:00:00",
-   "venue": "Radio East",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptj3"
-  },
-  {
-   "artist": "Ruthie Craft",
-   "event": "Ruthie Craft & KNETX",
-   "date": "2026-11-14",
-   "time": "22:10:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/ruthie-craft-knetx-austin-texas-11-14-2026/event/3A006563CC3EF63F"
-  },
-  {
-   "artist": "SWITCHFOOT",
-   "event": "Switchfoot with special guest Anberlin - Forever Now Tour",
-   "date": "2026-11-14",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-austin-texas-11-14-2026/event/3A0064A69F44BF99"
-  },
-  {
-   "artist": "SiM",
-   "event": "SiM",
-   "date": "2026-11-14",
-   "time": "19:30:00",
-   "venue": "Come and Take It Live",
-   "genre": "Metal",
-   "subgenre": "Metal",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y8P"
-  },
-  {
-   "artist": "Sugaree & Cold Sweat",
-   "event": "Sugaree & Cold Sweat",
-   "date": "2026-11-14",
-   "time": "21:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/sugaree-cold-sweat-austin-texas-11-14-2026/event/3A006569BA9990C5"
-  },
   {
    "artist": "Clara La San",
    "event": "Clara La San - Chosen Silences Tour Fall 2026",
@@ -1490,6 +1410,36 @@
    "genre": "Pop",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/bella-poarch-picnic-at-the-cemetery-austin-texas-02-11-2027/event/3A006543E7698B73"
+  },
+  {
+   "artist": "Gipsy Kings featuring Nicolas Reyes",
+   "event": "Gipsy Kings featuring Nicolas Reyes",
+   "date": "2027-02-12",
+   "time": "19:30:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "World",
+   "subgenre": "Latin",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Ubf"
+  },
+  {
+   "artist": "Los Lonely Boys",
+   "event": "Los Lonely Boys",
+   "date": "2027-02-12",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/los-lonely-boys-austin-texas-02-12-2027/event/3A006548C1A73BEE"
+  },
+  {
+   "artist": "Lotus",
+   "event": "Lotus",
+   "date": "2027-02-12",
+   "time": "20:00:00",
+   "venue": "The Mohawk-Austin",
+   "genre": "Rock",
+   "subgenre": "Alternative Rock",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Kr3"
   }
  ]
 }
