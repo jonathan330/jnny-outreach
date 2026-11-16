@@ -1,36 +1,6 @@
 {
- "updated": "2026-11-15 18:35 UTC",
+ "updated": "2026-11-16 21:44 UTC",
  "shows": [
-  {
-   "artist": "Clara La San",
-   "event": "Clara La San - Chosen Silences Tour Fall 2026",
-   "date": "2026-11-15",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "R&B",
-   "subgenre": "Urban Adult Contemporary",
-   "url": "https://www.ticketmaster.com/clara-la-san-chosen-silences-tour-austin-texas-11-15-2026/event/3A00650BB173ADDF"
-  },
-  {
-   "artist": "Makaya McCraven",
-   "event": "Makaya McCraven",
-   "date": "2026-11-15",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/makaya-mccraven-austin-texas-11-15-2026/event/3A0064EFFA8E2A28"
-  },
-  {
-   "artist": "Trish Toledo",
-   "event": "Trish Toledo",
-   "date": "2026-11-15",
-   "time": "20:00:00",
-   "venue": "29th Street Ballroom",
-   "genre": "Other",
-   "subgenre": "Other",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZjo"
-  },
   {
    "artist": "Soul Man Sam",
    "event": "Blue Monday w/ Soul Man Sam & Lindsay Beaver ",
@@ -65,7 +35,7 @@
    "artist": "Theo Kandel",
    "event": "Theo Kandel",
    "date": "2026-11-17",
-   "time": "20:00:00",
+   "time": "19:00:00",
    "venue": "Stubb's Indoors",
    "genre": "Folk",
    "subgenre": "Folk",
@@ -155,7 +125,7 @@
    "artist": "The Crystal Fall",
    "event": "The Crystal Fall & Paper Sister",
    "date": "2026-11-19",
-   "time": "22:30:00",
+   "time": "21:35:00",
    "venue": "Stubb's Indoors",
    "genre": "Rock",
    "subgenre": "Alternative Rock",
@@ -882,7 +852,7 @@
    "url": "https://www.ticketmaster.com/pentatonix-christmas-in-the-city-tour-austin-texas-12-15-2026/event/3A006504EE731AE5"
   },
   {
-   "artist": "Underoath",
+   "artist": "UNDERØATH",
    "event": "Underoath - Define the Great Line 20th Anniversary Tour",
    "date": "2026-12-15",
    "time": "18:30:00",
@@ -1440,6 +1410,16 @@
    "genre": "Rock",
    "subgenre": "Alternative Rock",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Kr3"
+  },
+  {
+   "artist": "Los Lonely Boys",
+   "event": "Los Lonely Boys",
+   "date": "2027-02-13",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/los-lonely-boys-austin-texas-02-13-2027/event/3A006548C1A93BFA"
   }
  ]
 }
