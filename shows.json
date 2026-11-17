@@ -1,16 +1,6 @@
 {
- "updated": "2026-11-16 21:44 UTC",
+ "updated": "2026-11-17 20:33 UTC",
  "shows": [
-  {
-   "artist": "Soul Man Sam",
-   "event": "Blue Monday w/ Soul Man Sam & Lindsay Beaver ",
-   "date": "2026-11-16",
-   "time": "19:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-11-16-2026/event/3A00655CCC08D36E"
-  },
   {
    "artist": "Amble",
    "event": "Amble",
@@ -652,6 +642,16 @@
    "url": "https://www.ticketweb.com/event/babe-haven-spaced-scarlet-demore-come-and-take-it-live-tickets/14192774"
   },
   {
+   "artist": "Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam",
+   "date": "2026-12-07",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-12-07-2026/event/3A00656CF2A2CC37"
+  },
+  {
    "artist": "Insomnium",
    "event": "Insomnium w/ Amorphis",
    "date": "2026-12-08",
@@ -810,6 +810,16 @@
    "genre": "Children's Music",
    "subgenre": "Children's Music",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZe_Z"
+  },
+  {
+   "artist": "Girl Guitar Holiday Showcase",
+   "event": "Girl Guitar Holiday Showcase",
+   "date": "2026-12-13",
+   "time": "16:00:00",
+   "venue": "Stubb's Indoors",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/girl-guitar-holiday-showcase-austin-texas-12-13-2026/event/3A006570B8C46C71"
   },
   {
    "artist": "Grieves",
@@ -980,6 +990,16 @@
    "genre": "Other",
    "subgenre": "",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_P4"
+  },
+  {
+   "artist": "Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam",
+   "date": "2026-12-21",
+   "time": "19:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Blues",
+   "subgenre": "Blues",
+   "url": "https://www.ticketmaster.com/blue-monday-w-soul-man-sam-austin-texas-12-21-2026/event/3A00656CF370CED5"
   },
   {
    "artist": "Mariachi Sol De Mexico",
@@ -1410,6 +1430,16 @@
    "genre": "Rock",
    "subgenre": "Alternative Rock",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Kr3"
+  },
+  {
+   "artist": "Daily Bread",
+   "event": "Daily Bread - Vanishing Point Tour",
+   "date": "2027-02-13",
+   "time": "19:00:00",
+   "venue": "Moody Amphitheater",
+   "genre": "Dance/Electronic",
+   "subgenre": "Dance/Electronic",
+   "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-austin-texas-02-13-2027/event/3A00656FE3E5E3A8"
   },
   {
    "artist": "Los Lonely Boys",
