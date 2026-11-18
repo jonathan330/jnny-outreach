@@ -1,36 +1,6 @@
 {
- "updated": "2026-11-17 20:33 UTC",
+ "updated": "2026-11-18 20:06 UTC",
  "shows": [
-  {
-   "artist": "Amble",
-   "event": "Amble",
-   "date": "2026-11-17",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Folk",
-   "subgenre": "Irish Folk",
-   "url": "https://www.ticketmaster.com/amble-austin-texas-11-17-2026/event/3A006496EF8487E5"
-  },
-  {
-   "artist": "Ladrones",
-   "event": "The Ladrones w/ Empty Shell Casing",
-   "date": "2026-11-17",
-   "time": "20:00:00",
-   "venue": "29th Street Ballroom",
-   "genre": "Rock",
-   "subgenre": "Punk",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSAU"
-  },
-  {
-   "artist": "Theo Kandel",
-   "event": "Theo Kandel",
-   "date": "2026-11-17",
-   "time": "19:00:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Folk",
-   "subgenre": "Folk",
-   "url": "https://www.ticketmaster.com/theo-kandel-austin-texas-11-17-2026/event/3A006524AF55A701"
-  },
   {
    "artist": "Evan Honer",
    "event": "Evan Honer - It's An Even Longer Road Tour",
@@ -155,7 +125,7 @@
    "artist": "Paige Plaisance",
    "event": "Paige Plaisance",
    "date": "2026-11-20",
-   "time": "22:30:00",
+   "time": "22:00:00",
    "venue": "Stubb's Indoors",
    "genre": "Country",
    "subgenre": "Contemporary Country",
