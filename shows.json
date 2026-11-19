@@ -1,36 +1,6 @@
 {
- "updated": "2026-11-18 20:06 UTC",
+ "updated": "2026-11-19 20:06 UTC",
  "shows": [
-  {
-   "artist": "Evan Honer",
-   "event": "Evan Honer - It's An Even Longer Road Tour",
-   "date": "2026-11-18",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-austin-texas-11-18-2026/event/3A0064C2B970AC59"
-  },
-  {
-   "artist": "Holywatr",
-   "event": "Holywatr: Deo Gratias Tour",
-   "date": "2026-11-18",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/holywatr-deo-gratias-tour-austin-texas-11-18-2026/event/3A0064AC03DF6EB9"
-  },
-  {
-   "artist": "Stop Light Observations",
-   "event": "Stop Light Observations w/ Runner and Bobby",
-   "date": "2026-11-18",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/stop-light-observations-w-runner-and-austin-texas-11-18-2026/event/3A0064B3DE341651"
-  },
   {
    "artist": "Aterciopelados",
    "event": "KUTX's Horizontes Pres:Aterciopelados: La Pipa De Laz Paz 30 Anos Tour",
@@ -1202,6 +1172,16 @@
    "url": "https://www.ticketmaster.com/eddie-9v-austin-texas-01-28-2027/event/3A006543E17F76D8"
   },
   {
+   "artist": "KOOP 32nd Birthday w/ Riverboat Gamblers, Paige Plaisance & More",
+   "event": "KOOP 32nd Birthday w/ Riverboat Gamblers, Paige Plaisance & More",
+   "date": "2027-01-29",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/koop-32nd-birthday-w-riverboat-gamblers-austin-texas-01-29-2027/event/3A006572C97F1C04"
+  },
+  {
    "artist": "Liam St. John",
    "event": "Liam St. John",
    "date": "2027-01-29",
@@ -1420,6 +1400,26 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/los-lonely-boys-austin-texas-02-13-2027/event/3A006548C1A93BFA"
+  },
+  {
+   "artist": "Hot 8 Brass Band",
+   "event": "Hot 8 Brass Band",
+   "date": "2027-02-16",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Jazz",
+   "subgenre": "Jazz",
+   "url": "https://www.ticketmaster.com/hot-8-brass-band-austin-texas-02-16-2027/event/3A00655CCADED0DB"
+  },
+  {
+   "artist": "Wynonna Judd",
+   "event": "Wynonna Judd w/ Troubadour Blue",
+   "date": "2027-02-16",
+   "time": "20:00:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Ef9"
   }
  ]
 }
