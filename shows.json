@@ -1,66 +1,6 @@
 {
- "updated": "2026-11-19 20:06 UTC",
+ "updated": "2026-11-20 19:42 UTC",
  "shows": [
-  {
-   "artist": "Aterciopelados",
-   "event": "KUTX's Horizontes Pres:Aterciopelados: La Pipa De Laz Paz 30 Anos Tour",
-   "date": "2026-11-19",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "World",
-   "subgenre": "Latin",
-   "url": "https://www.ticketmaster.com/kutxs-horizontes-presaterciopelados-la-pipa-de-austin-texas-11-19-2026/event/3A0064F5E8D0253C"
-  },
-  {
-   "artist": "Band of Horses",
-   "event": "An Evening With Band Of Horses",
-   "date": "2026-11-19",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/an-evening-with-band-of-horses-austin-texas-11-19-2026/event/3A0064A79A26A82B"
-  },
-  {
-   "artist": "Daisy Grenade",
-   "event": "Daisy Grenade w/ Boyish",
-   "date": "2026-11-19",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Other",
-   "subgenre": "",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8uI"
-  },
-  {
-   "artist": "Dexter and The Moonrocks",
-   "event": "Dexter and The Moonrocks",
-   "date": "2026-11-19",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Alternative",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-19-2026/event/3A0064C2F2FCF0DC"
-  },
-  {
-   "artist": "Tank and the Bangas",
-   "event": "Tank and The Bangas: The Last Balloon Tour w/ Ariel J. & ZEUS",
-   "date": "2026-11-19",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "R&B",
-   "subgenre": "R&B",
-   "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-austin-texas-11-19-2026/event/3A00647300BB9F75"
-  },
-  {
-   "artist": "The Crystal Fall",
-   "event": "The Crystal Fall & Paper Sister",
-   "date": "2026-11-19",
-   "time": "21:35:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/the-crystal-fall-paper-sister-austin-texas-11-19-2026/event/3A006566DB1231CA"
-  },
   {
    "artist": "Bryan Andrews",
    "event": "Bryan Andrews w/ Lou Ridley",
@@ -1143,13 +1083,13 @@
   },
   {
    "artist": "Slim Thug",
-   "event": "Slim Thug",
+   "event": "Slim Thug w/ LE$, AMORE TX, Soulzay & Negüs Fresh",
    "date": "2027-01-22",
    "time": "21:00:00",
    "venue": "Antone's Nightclub",
    "genre": "Hip-Hop/Rap",
    "subgenre": "Urban",
-   "url": "https://www.ticketmaster.com/slim-thug-austin-texas-01-22-2027/event/3A006543EC359CB1"
+   "url": "https://www.ticketmaster.com/slim-thug-w-le-amore-tx-austin-texas-01-22-2027/event/3A006543EC359CB1"
   },
   {
    "artist": "Jackie Venson",
@@ -1172,16 +1112,6 @@
    "url": "https://www.ticketmaster.com/eddie-9v-austin-texas-01-28-2027/event/3A006543E17F76D8"
   },
   {
-   "artist": "KOOP 32nd Birthday w/ Riverboat Gamblers, Paige Plaisance & More",
-   "event": "KOOP 32nd Birthday w/ Riverboat Gamblers, Paige Plaisance & More",
-   "date": "2027-01-29",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/koop-32nd-birthday-w-riverboat-gamblers-austin-texas-01-29-2027/event/3A006572C97F1C04"
-  },
-  {
    "artist": "Liam St. John",
    "event": "Liam St. John",
    "date": "2027-01-29",
@@ -1200,6 +1130,16 @@
    "genre": "Other",
    "subgenre": "Other",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7MJ9"
+  },
+  {
+   "artist": "Riverboat Gamblers",
+   "event": "KOOP 32nd Birthday w/ Riverboat Gamblers, Paige Plaisance & More",
+   "date": "2027-01-29",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/koop-32nd-birthday-w-riverboat-gamblers-austin-texas-01-29-2027/event/3A006572C97F1C04"
   },
   {
    "artist": "Dar Williams",
@@ -1420,6 +1360,16 @@
    "genre": "Country",
    "subgenre": "Country",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Ef9"
+  },
+  {
+   "artist": "The White Buffalo",
+   "event": "The White Buffalo",
+   "date": "2027-02-17",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/the-white-buffalo-austin-texas-02-17-2027/event/3A006564E3D3C0B2"
   }
  ]
 }
