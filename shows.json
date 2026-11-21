@@ -1,86 +1,6 @@
 {
- "updated": "2026-11-20 19:42 UTC",
+ "updated": "2026-11-21 18:48 UTC",
  "shows": [
-  {
-   "artist": "Bryan Andrews",
-   "event": "Bryan Andrews w/ Lou Ridley",
-   "date": "2026-11-20",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo4_"
-  },
-  {
-   "artist": "Dexter and The Moonrocks",
-   "event": "Dexter and The Moonrocks",
-   "date": "2026-11-20",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Alternative",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-austin-texas-11-20-2026/event/3A0064CFAE3F9E53"
-  },
-  {
-   "artist": "Kaskade",
-   "event": "Kaskade at The Concourse Project (Outdoors) - Ages 18+",
-   "date": "2026-11-20",
-   "time": "21:00:00",
-   "venue": "The Concourse Project",
-   "genre": "Dance/Electronic",
-   "subgenre": "Club Dance",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv8-Z"
-  },
-  {
-   "artist": "Paige Plaisance",
-   "event": "Paige Plaisance",
-   "date": "2026-11-20",
-   "time": "22:00:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Country",
-   "subgenre": "Contemporary Country",
-   "url": "https://www.ticketmaster.com/paige-plaisance-austin-texas-11-20-2026/event/3A00655B08AE69C1"
-  },
-  {
-   "artist": "Paul Cauthen",
-   "event": "Paul Cauthen",
-   "date": "2026-11-20",
-   "time": "19:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/paul-cauthen-austin-texas-11-20-2026/event/3A0064D6E73F2787"
-  },
-  {
-   "artist": "Tank and the Bangas",
-   "event": "Tank and The Bangas: The Last Balloon Tour w/ Ariel J. & ZEUS",
-   "date": "2026-11-20",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "R&B",
-   "subgenre": "R&B",
-   "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-austin-texas-11-20-2026/event/3A00647300BD9F82"
-  },
-  {
-   "artist": "The Floozies",
-   "event": "The Floozies",
-   "date": "2026-11-20",
-   "time": "19:00:00",
-   "venue": "The Far Out Lounge",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZIk9"
-  },
-  {
-   "artist": "Ty Myers",
-   "event": "Ty Myers: The Legal Tour 2026",
-   "date": "2026-11-20",
-   "time": "19:30:00",
-   "venue": "Moody Center ATX",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/ty-myers-the-legal-tour-2026-austin-texas-11-20-2026/event/3A00646DA0949E2B"
-  },
   {
    "artist": "Bahamas",
    "event": "Bahamas - Industrial Sport & Sound",
@@ -1370,6 +1290,36 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/the-white-buffalo-austin-texas-02-17-2027/event/3A006564E3D3C0B2"
+  },
+  {
+   "artist": "Ashley Cooke",
+   "event": "Ashley Cooke: The Baby Blues Tour",
+   "date": "2027-02-18",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/ashley-cooke-the-baby-blues-tour-austin-texas-02-18-2027/event/3A0064A6E7D49291"
+  },
+  {
+   "artist": "Crowe Boys",
+   "event": "Crowe Boys",
+   "date": "2027-02-18",
+   "time": "20:00:00",
+   "venue": "3TEN ACL Live",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7UGt"
+  },
+  {
+   "artist": "Kodo",
+   "event": "KODO",
+   "date": "2027-02-18",
+   "time": "19:30:00",
+   "venue": "Bass Concert Hall",
+   "genre": "World",
+   "subgenre": "World",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P0_7"
   }
  ]
 }
