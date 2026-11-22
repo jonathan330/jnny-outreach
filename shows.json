@@ -1,66 +1,6 @@
 {
- "updated": "2026-11-21 18:48 UTC",
+ "updated": "2026-11-22 19:10 UTC",
  "shows": [
-  {
-   "artist": "Bahamas",
-   "event": "Bahamas - Industrial Sport & Sound",
-   "date": "2026-11-21",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Folk",
-   "subgenre": "Folk",
-   "url": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-austin-texas-11-21-2026/event/3A006452B93B3A0F"
-  },
-  {
-   "artist": "Bobby Rush Show & Revue w/ Rodd Bland & the Members Only Band",
-   "event": "Bobby Rush Show & Revue w/ Rodd Bland & the Members Only Band",
-   "date": "2026-11-21",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/bobby-rush-show-revue-w-rodd-austin-texas-11-21-2026/event/3A006545E2F2BA5D"
-  },
-  {
-   "artist": "KVRX Fundraising Concert",
-   "event": "KVRX Fundraising Concert",
-   "date": "2026-11-21",
-   "time": "18:00:00",
-   "venue": "Stubb's Indoors",
-   "genre": "Rock",
-   "subgenre": "Punk",
-   "url": "https://www.ticketmaster.com/kvrx-fundraising-concert-austin-texas-11-21-2026/event/3A00656B3283D8DE"
-  },
-  {
-   "artist": "Lyle Lovett",
-   "event": "Lyle Lovett and his Small Large Band",
-   "date": "2026-11-21",
-   "time": "20:00:00",
-   "venue": "Austin City Limits Live at The Moody Theater",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PY7a"
-  },
-  {
-   "artist": "The Afghan Whigs",
-   "event": "The Afghan Whigs",
-   "date": "2026-11-21",
-   "time": "18:00:00",
-   "venue": "Scoot Inn",
-   "genre": "Rock",
-   "subgenre": "Pop",
-   "url": "https://www.ticketmaster.com/the-afghan-whigs-austin-texas-11-21-2026/event/3A0064BCB786C3F2"
-  },
-  {
-   "artist": "Thoughts On Bowling",
-   "event": "Thoughts On Bowling",
-   "date": "2026-11-21",
-   "time": "17:30:00",
-   "venue": "29th Street Ballroom",
-   "genre": "Rock",
-   "subgenre": "Emo",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgbe"
-  },
   {
    "artist": "Jalen Ngonda",
    "event": "Jalen Ngonda: Doctrine of Love Tour",
@@ -1320,6 +1260,16 @@
    "genre": "World",
    "subgenre": "World",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P0_7"
+  },
+  {
+   "artist": "Cody Johnson",
+   "event": "Cody Johnson",
+   "date": "2027-02-19",
+   "time": "19:00:00",
+   "venue": "Moody Center ATX",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/cody-johnson-austin-texas-02-19-2027/event/3A006554B3FBC02A"
   }
  ]
 }
