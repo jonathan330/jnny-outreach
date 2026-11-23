@@ -1,46 +1,6 @@
 {
- "updated": "2026-11-22 19:10 UTC",
+ "updated": "2026-11-23 23:31 UTC",
  "shows": [
-  {
-   "artist": "Jalen Ngonda",
-   "event": "Jalen Ngonda: Doctrine of Love Tour",
-   "date": "2026-11-22",
-   "time": "17:00:00",
-   "venue": "Scoot Inn",
-   "genre": "R&B",
-   "subgenre": "Soul",
-   "url": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-austin-texas-11-22-2026/event/3A0064C1DF54D27A"
-  },
-  {
-   "artist": "North Mississippi Allstars",
-   "event": "North Mississippi Allstars",
-   "date": "2026-11-22",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/north-mississippi-allstars-austin-texas-11-22-2026/event/3A0064D1D3A20CA5"
-  },
-  {
-   "artist": "Rawayana",
-   "event": "RAWAYANA - ¿Dónde es el after? World Tour",
-   "date": "2026-11-22",
-   "time": "20:00:00",
-   "venue": "Austin City Limits Live at The Moody Theater",
-   "genre": "Pop",
-   "subgenre": "Pop",
-   "url": "https://www.axs.com/events/1371102/rawayana-tickets?skin=acllive"
-  },
-  {
-   "artist": "Syd",
-   "event": "Syd: Beard Tour",
-   "date": "2026-11-22",
-   "time": "19:00:00",
-   "venue": "Emo's Austin",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Urban",
-   "url": "https://www.ticketmaster.com/syd-beard-tour-austin-texas-11-22-2026/event/3A00652BA143ABD3"
-  },
   {
    "artist": "Adrianne Lenker",
    "event": "Adrianne Lenker w/ Staci Foster",
@@ -110,6 +70,16 @@
    "genre": "R&B",
    "subgenre": "R&B",
    "url": "https://www.ticketmaster.com/dumpstaphunks-5th-annual-phunksgiving-w-kam-austin-texas-11-27-2026/event/3A00650FF3141DA9"
+  },
+  {
+   "artist": "Hot Since 82",
+   "event": "Hot Since 82 + Avision (21 and Over)",
+   "date": "2026-11-27",
+   "time": "21:00:00",
+   "venue": "The Concourse Project",
+   "genre": "Dance/Electronic",
+   "subgenre": "Club Dance",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvy-S"
   },
   {
    "artist": "Michael Martin Murphey",
@@ -383,7 +353,7 @@
   },
   {
    "artist": "Soul Man Sam",
-   "event": "Blue Monday w/ Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam & Lindsay Beaver ",
    "date": "2026-12-07",
    "time": "19:00:00",
    "venue": "Antone's Nightclub",
@@ -733,7 +703,7 @@
   },
   {
    "artist": "Soul Man Sam",
-   "event": "Blue Monday w/ Soul Man Sam",
+   "event": "Blue Monday w/ Soul Man Sam & Brad Stivers",
    "date": "2026-12-21",
    "time": "19:00:00",
    "venue": "Antone's Nightclub",
@@ -1270,6 +1240,46 @@
    "genre": "Country",
    "subgenre": "Country",
    "url": "https://www.ticketmaster.com/cody-johnson-austin-texas-02-19-2027/event/3A006554B3FBC02A"
+  },
+  {
+   "artist": "Adriatique",
+   "event": "Adriatique (21 and Over)",
+   "date": "2027-02-20",
+   "time": "21:00:00",
+   "venue": "The Concourse Project",
+   "genre": "Other",
+   "subgenre": "Other",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7MOz"
+  },
+  {
+   "artist": "Cody Johnson",
+   "event": "Cody Johnson",
+   "date": "2027-02-20",
+   "time": "19:00:00",
+   "venue": "Moody Center ATX",
+   "genre": "Country",
+   "subgenre": "Country",
+   "url": "https://www.ticketmaster.com/cody-johnson-austin-texas-02-20-2027/event/3A006551E27088BC"
+  },
+  {
+   "artist": "Jack Kays",
+   "event": "Jack Kays - Jack Kays And His Band",
+   "date": "2027-02-20",
+   "time": "18:00:00",
+   "venue": "Scoot Inn",
+   "genre": "Alternative",
+   "subgenre": "Indie Rock",
+   "url": "https://www.ticketmaster.com/jack-kays-jack-kays-and-his-austin-texas-02-20-2027/event/3A006538B0BCA5EF"
+  },
+  {
+   "artist": "Marian Hill",
+   "event": "Marian Hill ACT TWO: THE TOUR w/ Terror Jr ",
+   "date": "2027-02-20",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Dance/Electronic",
+   "subgenre": "Club Dance",
+   "url": "https://www.ticketmaster.com/marian-hill-act-two-the-tour-austin-texas-02-20-2027/event/3A00652806825560"
   }
  ]
 }
