@@ -1,16 +1,6 @@
 {
- "updated": "2026-11-24 22:00 UTC",
+ "updated": "2026-11-25 21:14 UTC",
  "shows": [
-  {
-   "artist": "So Called Underground w/ Greyson Turner & Jeska",
-   "event": "So Called Underground w/ Greyson Turner & Jeska",
-   "date": "2026-11-24",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "Blues",
-   "subgenre": "Blues",
-   "url": "https://www.ticketmaster.com/so-called-underground-w-greyson-turner-austin-texas-11-24-2026/event/3A006522D2E3843E"
-  },
   {
    "artist": "Ho99o9",
    "event": "Ho99o9 w/ N8NOFACE",
@@ -910,6 +900,16 @@
    "genre": "Blues",
    "subgenre": "Blues",
    "url": "https://www.ticketmaster.com/jackie-vensons-5th-annual-january-residency-austin-texas-01-23-2027/event/3A006550D6714A34"
+  },
+  {
+   "artist": "MANIA: The ABBA Tribute",
+   "event": "MANIA: The ABBA Tribute",
+   "date": "2027-01-27",
+   "time": "20:00:00",
+   "venue": "Austin City Limits Live at The Moody Theater",
+   "genre": "Other",
+   "subgenre": "Other",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA6Go"
   },
   {
    "artist": "Eddie 9V",
