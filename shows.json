@@ -1,36 +1,6 @@
 {
- "updated": "2026-11-25 21:14 UTC",
+ "updated": "2026-11-26 21:02 UTC",
  "shows": [
-  {
-   "artist": "Ho99o9",
-   "event": "Ho99o9 w/ N8NOFACE",
-   "date": "2026-11-25",
-   "time": "19:00:00",
-   "venue": "Come and Take It Live",
-   "genre": "Hip-Hop/Rap",
-   "subgenre": "Urban",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7Fx"
-  },
-  {
-   "artist": "Imminence",
-   "event": "Imminence - Axis Mundi Tour: North America 2026",
-   "date": "2026-11-25",
-   "time": "18:00:00",
-   "venue": "Stubb's Waller Creek Amphitheater",
-   "genre": "Metal",
-   "subgenre": "Metal",
-   "url": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-austin-texas-11-25-2026/event/3A0064CAAD18C9D4"
-  },
-  {
-   "artist": "Quentin Moore",
-   "event": "Quentin Moore w/ Vandell Andrew ",
-   "date": "2026-11-25",
-   "time": "20:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "R&B",
-   "subgenre": "Neo-Soul",
-   "url": "https://www.ticketmaster.com/quentin-moore-w-vandell-andrew-austin-texas-11-25-2026/event/3A0065150BDB3A6C"
-  },
   {
    "artist": "Dumpstaphunk",
    "event": "Dumpstaphunk's 5th Annual Phunksgiving w/ Kam Franklin",
@@ -1270,6 +1240,26 @@
    "genre": "Pop",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA704A"
+  },
+  {
+   "artist": "Public Image Ltd.",
+   "event": "Public Image Ltd. w/ Plague Vendor",
+   "date": "2027-02-23",
+   "time": "19:30:00",
+   "venue": "The Mohawk-Austin",
+   "genre": "Other",
+   "subgenre": "",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvwGv"
+  },
+  {
+   "artist": "Vincent Lima",
+   "event": "Vincent Lima",
+   "date": "2027-02-23",
+   "time": "19:30:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Rock",
+   "subgenre": "Rock & Roll",
+   "url": "https://www.ticketmaster.com/vincent-lima-austin-texas-02-23-2027/event/3A00654FF513ABF4"
   }
  ]
 }
