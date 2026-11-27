@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 21:02 UTC",
+ "updated": "2026-11-27 20:47 UTC",
  "shows": [
   {
    "artist": "Dumpstaphunk",
@@ -1260,6 +1260,16 @@
    "genre": "Rock",
    "subgenre": "Rock & Roll",
    "url": "https://www.ticketmaster.com/vincent-lima-austin-texas-02-23-2027/event/3A00654FF513ABF4"
+  },
+  {
+   "artist": "Pigeons Playing Ping Pong",
+   "event": "Pigeons Playing Ping Pong",
+   "date": "2027-02-24",
+   "time": "18:00:00",
+   "venue": "The Mohawk-Austin",
+   "genre": "Rock",
+   "subgenre": "Pop",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA78at"
   }
  ]
 }
