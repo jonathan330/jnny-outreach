@@ -1,46 +1,6 @@
 {
- "updated": "2026-11-27 20:47 UTC",
+ "updated": "2026-11-28 19:39 UTC",
  "shows": [
-  {
-   "artist": "Dumpstaphunk",
-   "event": "Dumpstaphunk's 5th Annual Phunksgiving w/ Kam Franklin",
-   "date": "2026-11-27",
-   "time": "21:00:00",
-   "venue": "Antone's Nightclub",
-   "genre": "R&B",
-   "subgenre": "R&B",
-   "url": "https://www.ticketmaster.com/dumpstaphunks-5th-annual-phunksgiving-w-kam-austin-texas-11-27-2026/event/3A00650FF3141DA9"
-  },
-  {
-   "artist": "Hot Since 82",
-   "event": "Hot Since 82 + Avision (21 and Over)",
-   "date": "2026-11-27",
-   "time": "21:00:00",
-   "venue": "The Concourse Project",
-   "genre": "Dance/Electronic",
-   "subgenre": "Club Dance",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvy-S"
-  },
-  {
-   "artist": "Michael Martin Murphey",
-   "event": "Michael Martin Murphey's Cowboy Christmas",
-   "date": "2026-11-27",
-   "time": "20:00:00",
-   "venue": "Austin City Limits Live at The Moody Theater",
-   "genre": "Country",
-   "subgenre": "Country",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvpu_"
-  },
-  {
-   "artist": "Poi Dog Pondering",
-   "event": "Poi Dog Pondering",
-   "date": "2026-11-27",
-   "time": "20:00:00",
-   "venue": "3TEN ACL Live",
-   "genre": "Rock",
-   "subgenre": "Alternative Rock",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAeaQ7"
-  },
   {
    "artist": "A Tribute to John Lennon",
    "event": "The 36th Annual John Lennon Tribute with The #9 Orchestra",
@@ -1270,6 +1230,16 @@
    "genre": "Rock",
    "subgenre": "Pop",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA78at"
+  },
+  {
+   "artist": "Willi Carlisle",
+   "event": "Willi Carlisle",
+   "date": "2027-02-25",
+   "time": "20:00:00",
+   "venue": "Antone's Nightclub",
+   "genre": "Folk",
+   "subgenre": "Folk",
+   "url": "https://www.ticketmaster.com/willi-carlisle-austin-texas-02-25-2027/event/3A006539E3BC92BB"
   }
  ]
 }
